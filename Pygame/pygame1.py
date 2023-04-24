@@ -13,6 +13,7 @@ x = 200
 y = 200
 dx = 1
 fx = 1
+
 while game_goes_on:
 
     # INPUT PROCESSING
