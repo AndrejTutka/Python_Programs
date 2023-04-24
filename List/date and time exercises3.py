@@ -19,4 +19,4 @@ print(f'Weekday: {weekdays[date2.weekday()]}')
 
 date3 = datetime.datetime.strptime(f'{year}-01-01', '%Y-%m-%d')
 
-print(f'your date will happen in {right_now - date3}')
+print(f'your date is {right_now - date3} from the begining of the year' )
